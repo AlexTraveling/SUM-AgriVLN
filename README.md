@@ -1,6 +1,6 @@
 <div align="center">
 <h1>SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation</h1>
-<a href="https://arxiv.org/abs/2509.06644"><img src="https://img.shields.io/badge/arXiv-2509.06644-b31b1b" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2510.14357"><img src="https://img.shields.io/badge/arXiv-2510.14357-b31b1b" alt="arXiv"></a>
 
 [Xiaobei Zhao](https://github.com/AlexTraveling), [Xingqi Lyu](https://github.com/AlexTraveling), [Xiang Li](https://faculty.cau.edu.cn/lx_7543/)
 
@@ -16,7 +16,7 @@ To bridge this gap, we propose the method of Spatial Understanding Memory for Ag
 
 ![Method of T-araVLN](image_for_readme/fig_method_small.jpg)
 
-## Quick Start
+## Set up
 The code of the SUM-AgriVLN method will be available after the paper is published.
 
 ## Cite
@@ -24,7 +24,7 @@ The code of the SUM-AgriVLN method will be available after the paper is publishe
 @inproceedings{SUM-AgriVLN,
   title={SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation},
   author={Xiaobei Zhao and Xingqi Lyu and Xiang Li},
-  booktitle={arXiv},
+  booktitle={arXiv:2510.14357},
   year={2025}
 }
 ```
